@@ -1,0 +1,22 @@
+/* static/style.css */
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 10px;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+a{
+    text-decoration: none;
+    border: 2px green solid;
+    padding: 2px;
+}
